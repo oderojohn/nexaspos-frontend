@@ -1,0 +1,10 @@
+.env
+*.log
+*.err
+node_modules/
+dist/
+.vite/
+dist-electron/
+electron-dist/
+release/
+*.bak
