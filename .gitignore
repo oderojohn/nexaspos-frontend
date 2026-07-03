@@ -8,3 +8,6 @@ dist-electron/
 electron-dist/
 release/
 *.bak
+
+# Local Netlify folder
+.netlify
